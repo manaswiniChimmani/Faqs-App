@@ -1,0 +1,29 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  /* text-align: center;
+  align-items: center; */
+  padding: 20px;
+}
+.h1 {
+  color: #cb8805;
+  font-size: 28px;
+  text-align: center;
+}
+.ul {
+  display: flex;
+  flex-direction: column;
+  /* text-align: center;
+  align-items: center; */
+}
